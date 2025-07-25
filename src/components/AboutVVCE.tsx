@@ -121,7 +121,7 @@ const AboutVVCE = () => {
                   <li>Autonomous Institue Affiliated by  VTU</li>
                   <li>Accrediated by NAAC with 'A' Grade</li>
                   <li>Strong industry partnerships</li>
-                  <li>Has </li>
+                  <li>Has over 30 student-run clubs</li>
                 </ul>
               </div>
             </div>
