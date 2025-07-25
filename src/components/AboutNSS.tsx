@@ -116,7 +116,7 @@ const AboutNSS = () => {
               </div>
               <div className="bg-gray-800 p-4 rounded-lg">
                 <p className="font-semibold text-blue-400 mb-1">Free .xyz domain</p>
-                <p className="text-gray-300 text-sm">Each team member gets a free .xyz domain for 1 year</p>
+                <p className="text-gray-300 text-sm">Each team member gets a free .xyz domain  valid for 1 year</p>
               </div>
             </div>
           </motion.div>
